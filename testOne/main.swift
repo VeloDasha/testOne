@@ -22,4 +22,5 @@ func someFunctionWithNonescapingClosure(closure: () -> Void) {
 //let instance = SomeClass()
 //instance.doSomething()
 doSomething()
+
 print(x)
